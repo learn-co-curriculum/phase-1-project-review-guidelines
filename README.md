@@ -1,17 +1,4 @@
-# [Flex] Instructor Review: Phase 1 Project
-
-## Scheduling Your Review
-
-Your instructor will add your portfolio project's grade on this assignment.
-**Please make sure you satisfied all the requirements listed below before
-scheduling the meeting** or your review will be canceled by the reviewer.
-
-To schedule your review:
-
-- Go to [https://go.oncehub.com/PhaseOneJavascriptProjectReview](https://go.oncehub.com/PhaseOneJavascriptProjectReview)
-- Select an available date and time on the scheduling site
-- Return to Canvas, and click 'Start Assignment'
-- Then paste your confirmation email in the text box below and submit the assignment
+# [Flex] Phase 1 Project Review Guidelines
 
 ## Project Requirements
 
@@ -52,6 +39,17 @@ review:
   detail. Please make sure you only focus your blog on the technical aspects and
   find a good balance between text and code (code snippets or screenshots).
   [Instructions can be found here](https://docs.google.com/document/d/1i6NqCgYZd9DC25Om9agZ4lX-U_7DmjH0ZTBpOWMAn9Q/edit?usp=sharing).
+
+## Scheduling Your Review
+
+To schedule your review, go to
+[https://go.oncehub.com/PhaseOneJavascriptProjectReview][review] and select an
+available date and time on the scheduling site.
+
+**Please make sure you satisfied all the requirements listed below before
+scheduling the meeting** or your review will be canceled by the reviewer.
+
+[review]: https://go.oncehub.com/PhaseOneJavascriptProjectReview
 
 ## What To Expect From the Project Review
 
