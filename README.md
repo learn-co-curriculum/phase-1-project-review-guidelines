@@ -18,24 +18,24 @@ review:
   would add value, add them to your README.md. If you want to go above and
   beyond, record a few seconds of yourself navigating the app and turn it into a
   gif. Then, add the gif in your README.md. That way anyone can get a sense of
-  how your app works without leaving the README’s page on GitHub!
+  how your app works without leaving the README's page on GitHub!
 - **[GITHUB REPOSITORY]: A detailed commit history (30+ commits is your minimum
   goal)**. Committing frequently is a fundamental best practice that you want to
   acquire as soon as possible. One day you will be collaborating on projects and
-  you’ll notice the importance of committing even more. Commit messages should
+  you'll notice the importance of committing even more. Commit messages should
   be in the present tense, 50 characters or less and they should describe the
   changes you are committing.
 - **A video walkthrough of your app (3 minutes should be enough)**. In the video
   try to sound as professional as possible and walk through the functionality
   you built. A common way to record the video is to open a zoom meeting, share
-  your screen, and then hit “record”. Once the recording has been downloaded to
-  your computer, upload it to YouTube Studio as “unlisted”. That way only people
-  with the link will be able to watch it. You don’t have to share the video with
-  anyone other than Flatiron if you don’t feel comfortable.
+  your screen, and then hit "record". Once the recording has been downloaded to
+  your computer, upload it to YouTube Studio as "unlisted". That way only people
+  with the link will be able to watch it. You don't have to share the video with
+  anyone other than Flatiron if you don't feel comfortable.
 - **A blog post about your project**. The blog post should be at least a
   3-minute read (most blogging platforms show you the total read time). In the
   post analyze the idea and describe the project in general. Once you explain
-  the “why” and “how” of your project, start describing one or two features in
+  the "why" and "how" of your project, start describing one or two features in
   detail. Please make sure you only focus your blog on the technical aspects and
   find a good balance between text and code (code snippets or screenshots).
   [Instructions can be found here](https://docs.google.com/document/d/1i6NqCgYZd9DC25Om9agZ4lX-U_7DmjH0ZTBpOWMAn9Q/edit?usp=sharing).
@@ -64,7 +64,7 @@ During your project review, be prepared to:
    best practices. (~10 minutes)
 2. Explain your code from execution point to exit point. You will also be asked
    questions that test your knowledge of JS fundamentals. Use the best technical
-   vocabulary you can. We’ll help you with the words you can’t remember or those
+   vocabulary you can. We'll help you with the words you can't remember or those
    you find difficult to pronounce. (~15-20 minutes)
 3. Refactor code and add new functionality. (~15-20 minutes)
 
