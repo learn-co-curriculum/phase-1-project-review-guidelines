@@ -46,7 +46,7 @@ To schedule your review, go to
 [https://go.oncehub.com/PhaseOneJavascriptProjectReview][review] and select an
 available date and time on the scheduling site.
 
-**Please make sure you satisfied all the requirements listed below before
+**Please make sure you satisfied all the requirements listed below above
 scheduling the meeting** or your review will be canceled by the reviewer.
 
 [review]: https://go.oncehub.com/PhaseOneJavascriptProjectReview
