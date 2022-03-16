@@ -101,7 +101,9 @@ What won't happen:
 
 ## What is Expected of you in a Project Review
 
-Since Project Reviews are preparing you for [technical interviews][], we expect you to treat the session as a professional engagement. This is what is expected of you:
+Since Project Reviews are preparing you for [technical interviews][], we expect
+you to treat the session as a professional engagement. This is what is expected
+of you:
 
 - Your camera must be on
 - Please secure a quiet environment
