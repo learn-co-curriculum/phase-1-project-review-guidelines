@@ -36,7 +36,7 @@ review:
   way only people with the link will be able to watch it. You don't have to
   share the video with anyone other than Flatiron if you don't feel comfortable.
 - **A blog post about this phase of the curriculum**. This will serve as one of
-  the seven blogs you are required to complete to graduate from Flatiron School.
+  the five blogs you are required to complete to graduate from Flatiron School.
   The blog post MUST meet the following requirements:
   - Each blog must be at least 750 words, which is an approximately 3-5 minute
 read on a blogging platform.
