@@ -61,7 +61,7 @@ in Oncehub or your project review will be canceled by the reviewer. Do not book 
 appointment with your assigned Cohort Lead — be sure to choose another reviewer.
 
 To schedule your review, please see the lesson entitled [Flex] Instructor Review: Phase 1 Project
-and use the link pro vided to select an available date and time on the scheduling site. 
+and use the link provided to select an available date and time on the scheduling site. 
 Do not book an appointment with your assigned Cohort Lead — be sure to choose another reviewer.
 
 ## What To Expect From the Project Review
