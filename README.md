@@ -54,15 +54,16 @@ reference as you start blogging!
 [blog-tips]: https://docs.google.com/document/d/1i6NqCgYZd9DC25Om9agZ4lX-U_7DmjH0ZTBpOWMAn9Q/edit
 
 ## Scheduling Your Review
+
 Please make sure you have satisfied all the requirements listed in the project
 requirements page (linked at the top of the page) before scheduling the meeting.
 These required components must be completed, submitted in Canvas, and submitted
-in Oncehub or your project review will be canceled by the reviewer. Do not book an 
-appointment with your assigned Cohort Lead — be sure to choose another reviewer.
+in Oncehub or your project review will be canceled by the reviewer.
 
-To schedule your review, please see the lesson entitled [Flex] Instructor Review: Phase 1 Project
-and use the link provided to select an available date and time on the scheduling site. 
-Do not book an appointment with your assigned Cohort Lead — be sure to choose another reviewer.
+To schedule your review, please see the lesson entitled [Flex] Instructor
+Review: Phase 1 Project and use the link provided to select an available date
+and time on the scheduling site. Do not book an appointment with your assigned
+Cohort Lead — be sure to choose another reviewer.
 
 ## What To Expect From the Project Review
 
