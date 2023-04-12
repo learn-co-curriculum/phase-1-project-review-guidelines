@@ -55,19 +55,15 @@ reference as you start blogging!
 
 ## Scheduling Your Review
 
-To schedule your review, go to [Oncehub][]
-(https://go.oncehub.com/PhaseOneJavascriptProjectReview) and select an available
-date and time on the scheduling site. Do not book an appointment with your
-assigned Cohort Lead — be sure to choose another reviewer.
-
-[Oncehub]: https://go.oncehub.com/PhaseOneJavascriptProjectReview
-
 Please make sure you have satisfied all the requirements listed in the project
 requirements page (linked at the top of the page) before scheduling the meeting.
 These required components must be completed, submitted in Canvas, and submitted
 in Oncehub or your project review will be canceled by the reviewer.
 
-[review]: https://go.oncehub.com/PhaseOneJavascriptProjectReview
+To schedule your review, please see the lesson entitled [Flex] Instructor
+Review: Phase 1 Project and use the link provided to select an available date
+and time on the scheduling site. Do not book an appointment with your assigned
+Cohort Lead — be sure to choose another reviewer.
 
 ## What To Expect From the Project Review
 
